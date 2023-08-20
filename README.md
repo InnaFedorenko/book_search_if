@@ -8,8 +8,8 @@
 - [Tests](#tests)
 - [Questions](#questions) 
 ##  Description
-- The MERN: Book Search Engine was developed by [Inna Fedorenko](https://github.com/InnaFedorenko/book_search_if).
-- [GiHub Link](https://github.com/InnsFedorenko/readme-generator)
+- The MERN: Book Search Engine was developed by [Inna Fedorenko](https://github.com/InnaFedorenko).
+- [GiHub Link](https://github.com/InnaFedorenko/book_search_if)
 - [Link to deployed App](TBD )
 - Date: 08-20-2023
 
@@ -78,7 +78,6 @@ Welcome!
 
 ##  Tests
 n/a
-
 ##  Questions
 If you have any questions, you can reach out to [me](https://github.com/InnsFedorenko) at 
 [ivf.fedorenko@gmail.com](mailto:ivf.fedorenko@gmail.com).
